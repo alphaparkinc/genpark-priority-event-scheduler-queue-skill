@@ -1,0 +1,12 @@
+{
+  "name": "genpark-priority-event-scheduler-queue-skill",
+  "version": "1.0.1",
+  "description": "Min-heap priority event scheduler and delayed task dispatcher for asynchronous multi-agent coordination",
+  "tools": [
+    "schedule_task",
+    "peek_next_task",
+    "pop_ready_tasks",
+    "cancel_task",
+    "get_queue_metrics"
+  ]
+}
