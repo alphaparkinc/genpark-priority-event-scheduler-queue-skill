@@ -1,0 +1,7 @@
+name: genpark-priority-event-scheduler-queue-skill
+description: Min-heap priority event scheduler and delayed task dispatcher for asynchronous multi-agent coordination
+version: 1.0.1
+entrypoint: mcp_server.py
+command: python
+args:
+  - mcp_server.py
